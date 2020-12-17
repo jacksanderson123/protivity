@@ -1,0 +1,12 @@
+{
+  "name": "protivity",
+  "displayName": "protivity",
+  "expo": {
+    "name": "protivity",
+    "slug": "protivity",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
